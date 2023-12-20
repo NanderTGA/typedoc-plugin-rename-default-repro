@@ -43,7 +43,7 @@ const config = {
         ],
         tsconfig          : "../tsconfig.json",
         entryPointStrategy: "Expand",
-        plugin            : [ "typedoc-plugin-rename-defaults" ],
+        plugin            : [ "../../typedoc-plugin-rename-defaults/index.js" ],
         sidebar           : {
           position: 999,
         }
