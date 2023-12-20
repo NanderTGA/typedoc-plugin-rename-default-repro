@@ -24,7 +24,8 @@
     "react-dom": "^18.2.0",
     "rimraf": "^5.0.5",
     "typedoc": "^0.25.4",
-    "typedoc-plugin-markdown": "^3.17.1"
+    "typedoc-plugin-markdown": "^3.17.1",
+    "typedoc-plugin-rename-defaults": "file:../../typedoc-plugin-rename-defaults"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.0.1",
