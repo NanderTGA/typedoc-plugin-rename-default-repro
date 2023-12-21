@@ -16,4 +16,6 @@ npm start
 
 You'll see that the "API" section in the sidebar is missing.
 
-Modify & save any file in ./website to trigger a rebuild and restore the "API" section in the sidebar
+Modify & save any file in ./website to trigger a rebuild and restore the "API" section in the sidebar.
+
+To fix the issue, downgrade `typedoc-plugin-rename-defaults` to version 0.6.6.
